@@ -1,2 +1,2 @@
-puts 'greeting' = "hello world"
+puts 'greeting' = hello world
 l
